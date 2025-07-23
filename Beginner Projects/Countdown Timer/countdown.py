@@ -6,7 +6,6 @@ import time
 from plyer import notification
 
 a = int(input("Enter time in seconds: "))
-count = a
 
 for i in range(a):
     time.sleep(1)
