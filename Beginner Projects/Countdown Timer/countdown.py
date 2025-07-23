@@ -3,6 +3,7 @@
 # time.sleep(), loops
 
 import time
+from plyer import notification
 
 a = int(input("Enter time in seconds: "))
 count = a
@@ -12,3 +13,9 @@ for i in range(a):
     print(i+1)
     if (i + 1) == a:
         print("Time up!")
+        notification.notify(
+            title = 'Time Up',
+            message = f"Your time {a} sec are up.",
+            app_icon = None,
+            timeout = 10,
+        )
