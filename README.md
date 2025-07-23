@@ -3,7 +3,7 @@
 A collection of beginner-friendly Python projects for learning and practice. Each project is self-contained and runs in the terminal.
 
 ## Projects Included
-**Beginner Projects
+### Beginner Projects
 - **Calculator (CLI):** Perform basic arithmetic operations from the terminal.
 - **Countdown Timer:** Set a timer and get notified when time is up.
 - **Dice Roller Simulator:** Simulate rolling dice with customizable sides.
@@ -13,6 +13,7 @@ A collection of beginner-friendly Python projects for learning and practice. Eac
 - **Simple Alarm Clock:** Set alarms directly from the terminal.
 - **To-Do List:** Manage your tasks in a simple text-based interface. *(Yet to finish)*
 - **Unit Converter:** Convert between different units (length, weight, etc.).
+- **Basic Quiz App:** Asks basic MCQ questions and verifies the answers based on dictionaries
 
 ## Getting Started
 
