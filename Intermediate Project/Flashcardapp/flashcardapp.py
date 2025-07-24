@@ -1,7 +1,7 @@
 # Terminal / GUI (optional)
 # File I/O, dictionaries, tkinter GUI
 # A CLI or GUI app to display flashcards. It should show a term, wait for input (e.g., "flip"), then show the definition.
-
+# In progress
 class Flash_card:
     def add_card():
         add = input("Add Question: ")
